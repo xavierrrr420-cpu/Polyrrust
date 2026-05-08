@@ -1,0 +1,350 @@
+{
+  "_note": "Known farm/rug deployers. Add deployer wallet addresses here to auto-reject their pools. Seed with list from @degengamblah.",
+  "addresses": {
+    "twitter-meeznxt": {
+      "time": 1757550947411,
+      "type": "twitter",
+      "value": "meeznxt"
+    },
+    "twitter-frenchydevv": {
+      "value": "frenchydevv",
+      "type": "twitter",
+      "time": 1760844097732
+    },
+    "twitter-mindsetsol_coin": {
+      "value": "mindsetsol_coin",
+      "type": "twitter",
+      "time": 1769305002559
+    },
+    "twitter-ryancarson": {
+      "value": "ryancarson",
+      "type": "twitter",
+      "time": 1769305221885
+    },
+    "twitter-aperture_run": {
+      "value": "aperture_run",
+      "type": "twitter",
+      "time": 1769305435413
+    },
+    "twitter-holopodcastshow": {
+      "value": "holopodcastshow",
+      "type": "twitter",
+      "time": 1769307025151
+    },
+    "twitter-illestwagmiguy": {
+      "value": "illestwagmiguy",
+      "type": "twitter",
+      "time": 1769756609997
+    },
+    "twitter-ratwizardx": {
+      "value": "ratwizardx",
+      "type": "twitter",
+      "time": 1772361785042
+    },
+    "twitter-operat3er": {
+      "value": "operat3er",
+      "type": "twitter",
+      "time": 1774065726933
+    },
+    "twitter-fliiiighht": {
+      "value": "fliiiighht",
+      "type": "twitter",
+      "time": 1774065871911
+    },
+    "twitter-lyranfa": {
+      "value": "lyranfa",
+      "type": "twitter",
+      "time": 1774066298570
+    },
+    "twitter-ilaunchedit": {
+      "value": "ilaunchedit",
+      "type": "twitter",
+      "time": 1774068586035
+    },
+    "twitter-jakey_devs": {
+      "value": "jakey_devs",
+      "type": "twitter",
+      "time": 1774068693541
+    },
+    "twitter-goatednarra": {
+      "value": "goatednarra",
+      "type": "twitter",
+      "time": 1774069476342
+    },
+    "twitter-alexzabv": {
+      "value": "alexzabv",
+      "type": "twitter",
+      "time": 1774070003936
+    },
+    "twitter-x_mania2": {
+      "value": "x_mania2",
+      "type": "twitter",
+      "time": 1774070184449
+    },
+    "twitter-roshi100x": {
+      "value": "roshi100x",
+      "type": "twitter",
+      "time": 1774071080342
+    },
+    "twitter-thedev1738": {
+      "value": "thedev1738",
+      "type": "twitter",
+      "time": 1774071138978
+    },
+    "twitter-bondorrrr": {
+      "value": "bondorrrr",
+      "type": "twitter",
+      "time": 1774071611489
+    },
+    "twitter-alonzocooks": {
+      "value": "alonzocooks",
+      "type": "twitter",
+      "time": 1774075685582
+    },
+    "twitter-jonahsimonsen": {
+      "value": "jonahsimonsen",
+      "type": "twitter",
+      "time": 1774076221216
+    },
+    "twitter-jeankpss": {
+      "value": "jeankpss",
+      "type": "twitter",
+      "time": 1774076273679
+    },
+    "twitter-newdevzzz": {
+      "value": "newdevzzz",
+      "type": "twitter",
+      "time": 1774076456680
+    },
+    "twitter-duelboxing": {
+      "value": "duelboxing",
+      "type": "twitter",
+      "time": 1774076509736
+    },
+    "twitter-0xbixiii": {
+      "value": "0xbixiii",
+      "type": "twitter",
+      "time": 1774080756973
+    },
+    "twitter-qquackydd": {
+      "value": "qquackydd",
+      "type": "twitter",
+      "time": 1774093755581
+    },
+    "twitter-trenchersetsu": {
+      "value": "trenchersetsu",
+      "type": "twitter",
+      "time": 1774095024072
+    },
+    "twitter-humbledev123": {
+      "value": "humbledev123",
+      "type": "twitter",
+      "time": 1774132107825
+    },
+    "twitter-ripedevonchain": {
+      "value": "ripedevonchain",
+      "type": "twitter",
+      "time": 1774132269495
+    },
+    "twitter-gfjmr72649798": {
+      "value": "gfjmr72649798",
+      "type": "twitter",
+      "time": 1774144976801
+    },
+    "twitter-ihave100names": {
+      "value": "ihave100names",
+      "type": "twitter",
+      "time": 1774145130360
+    },
+    "twitter-xyzaxyzt": {
+      "value": "xyzaxyzt",
+      "type": "twitter",
+      "time": 1774145397706
+    },
+    "twitter-temuquant1": {
+      "value": "temuquant1",
+      "type": "twitter",
+      "time": 1774146537637
+    },
+    "twitter-nikolaihauckx": {
+      "value": "nikolaihauckx",
+      "type": "twitter",
+      "time": 1774147382703
+    },
+    "twitter-murphsicles": {
+      "value": "murphsicles",
+      "type": "twitter",
+      "time": 1774147392205
+    },
+    "twitter-bronz3r": {
+      "value": "bronz3r",
+      "type": "twitter",
+      "time": 1774157081379
+    },
+    "twitter-realalexjones": {
+      "value": "realalexjones",
+      "type": "twitter",
+      "time": 1774157239996
+    },
+    "twitter-genuinedev67": {
+      "value": "genuinedev67",
+      "type": "twitter",
+      "time": 1774159953484
+    },
+    "twitter-100xgrimace": {
+      "value": "100xgrimace",
+      "type": "twitter",
+      "time": 1774160388621
+    },
+    "twitter-iamtruelyhappy": {
+      "value": "iamtruelyhappy",
+      "type": "twitter",
+      "time": 1774161715300
+    },
+    "twitter-extractor91": {
+      "value": "extractor91",
+      "type": "twitter",
+      "time": 1774168359757
+    },
+    "twitter-kireiigoat": {
+      "value": "kireiigoat",
+      "type": "twitter",
+      "time": 1774173136858
+    },
+    "twitter-s0vali": {
+      "value": "s0vali",
+      "type": "twitter",
+      "time": 1774174962238
+    },
+    "twitter-smartmoneyusd1": {
+      "value": "smartmoneyusd1",
+      "type": "twitter",
+      "time": 1774175026218
+    },
+    "twitter-faxnolies": {
+      "value": "faxnolies",
+      "type": "twitter",
+      "time": 1774175251470
+    },
+    "twitter-angel624devvv": {
+      "value": "angel624devvv",
+      "type": "twitter",
+      "time": 1774176395010
+    },
+    "twitter-bigbonderboi": {
+      "value": "bigbonderboi",
+      "type": "twitter",
+      "time": 1774176918659
+    },
+    "twitter-phoenixnewsio": {
+      "value": "phoenixnewsio",
+      "type": "twitter",
+      "time": 1774524791599
+    },
+    "twitter-gajira45": {
+      "value": "gajira45",
+      "type": "twitter",
+      "time": 1774524860886
+    },
+    "twitter-cryptofaverity": {
+      "value": "cryptofaverity",
+      "type": "twitter",
+      "time": 1774524934702
+    },
+    "dev-JAvpwAxR4a7djwKvk8hch6ircZ6oqVd82nwymfq1uEa6": {
+      "time": 1756427333711,
+      "type": "dev",
+      "value": "JAvpwAxR4a7djwKvk8hch6ircZ6oqVd82nwymfq1uEa6"
+    },
+    "dev-Bb6YdyiK3dqB54pKqhzFgyi7rYbmcEGqwJpmS2yeKWtG": {
+      "time": 1756607102498,
+      "type": "dev",
+      "value": "Bb6YdyiK3dqB54pKqhzFgyi7rYbmcEGqwJpmS2yeKWtG"
+    },
+    "dev-GQ7Cs8nPQX7yc9f2bEEokhc6gZvke3Ervpaws2jQHhfF": {
+      "time": 1756765009009,
+      "type": "dev",
+      "value": "GQ7Cs8nPQX7yc9f2bEEokhc6gZvke3Ervpaws2jQHhfF"
+    },
+    "dev-5WS4LfgTMSwD9mHZtCzPGqMqHWtRSg9WMe7nkv34Wa8n": {
+      "time": 1757128969819,
+      "type": "dev",
+      "value": "5WS4LfgTMSwD9mHZtCzPGqMqHWtRSg9WMe7nkv34Wa8n"
+    },
+    "dev-33TovdHWN75vaMG9vLngRkGeBMHcMATwM4Rjj9RruKqu": {
+      "time": 1757577544824,
+      "type": "dev",
+      "value": "33TovdHWN75vaMG9vLngRkGeBMHcMATwM4Rjj9RruKqu"
+    },
+    "dev-36DWP52MVRDooYNrcRVDyoCh2R1fPXCYqKJQYg9pFQoE": {
+      "value": "36DWP52MVRDooYNrcRVDyoCh2R1fPXCYqKJQYg9pFQoE",
+      "type": "dev",
+      "time": 1759727212159
+    },
+    "dev-8L7Xg4wbUizwYz5My8puqe3KP8bvkgxi23VbKY6p6vb2": {
+      "value": "8L7Xg4wbUizwYz5My8puqe3KP8bvkgxi23VbKY6p6vb2",
+      "type": "dev",
+      "time": 1760242097945
+    },
+    "dev-65qE1ydvQNcAoq9aaHQKuwiD3Vkxxn9YR5PQdKYVxBMF": {
+      "value": "65qE1ydvQNcAoq9aaHQKuwiD3Vkxxn9YR5PQdKYVxBMF",
+      "type": "dev",
+      "time": 1760529428643
+    },
+    "dev-54VKeHsoEJZ9hat8tNDh9WpGiYxdkhhiPCUJDCqAGwsN": {
+      "value": "54VKeHsoEJZ9hat8tNDh9WpGiYxdkhhiPCUJDCqAGwsN",
+      "type": "dev",
+      "time": 1760844098923
+    },
+    "dev-7Xtzn7uMyvgeQJE9waM3ZeKBviAEmkCDxq4iV1LV3vFZ": {
+      "value": "7Xtzn7uMyvgeQJE9waM3ZeKBviAEmkCDxq4iV1LV3vFZ",
+      "type": "dev",
+      "time": 1761267759056
+    },
+    "dev-AkTPcqiU6x9VqPmEsU6AkfqhBpVwugJapysN6kYi9t33": {
+      "value": "AkTPcqiU6x9VqPmEsU6AkfqhBpVwugJapysN6kYi9t33",
+      "type": "dev",
+      "time": 1763538470123
+    },
+    "dev-EV67mWgM7UigqLmedafYEe2Vw4uVM2VKB9qaG2tfenao": {
+      "value": "EV67mWgM7UigqLmedafYEe2Vw4uVM2VKB9qaG2tfenao",
+      "type": "dev",
+      "time": 1765607123588
+    },
+    "dev-6XgWuGkrQ6NUsubdBkX6dLDjQtc6rPV5HMhqei3VXNih": {
+      "value": "6XgWuGkrQ6NUsubdBkX6dLDjQtc6rPV5HMhqei3VXNih",
+      "type": "dev",
+      "time": 1765607312220
+    },
+    "dev-BAQtSp48zZ9Q7sEgJ4eb7Mrzp5EFqv1677mrCMWAdCrU": {
+      "value": "BAQtSp48zZ9Q7sEgJ4eb7Mrzp5EFqv1677mrCMWAdCrU",
+      "type": "dev",
+      "time": 1766553285262
+    },
+    "dev-ARJau3tzqQit2rcdKsdimfS67L4KVHmQbF36xJafRB3L": {
+      "value": "ARJau3tzqQit2rcdKsdimfS67L4KVHmQbF36xJafRB3L",
+      "type": "dev",
+      "time": 1767412236253
+    },
+    "dev-C4udGwTg6oqcrr8SmSLmkcXDbaFEcopsiaT21KUE4psU": {
+      "value": "C4udGwTg6oqcrr8SmSLmkcXDbaFEcopsiaT21KUE4psU",
+      "type": "dev",
+      "time": 1767779128004
+    },
+    "dev-bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa": {
+      "value": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+      "type": "dev",
+      "time": 1767916515461
+    },
+    "dev-DEXFiUCJgpzRK8ET5Djx5yXkdaiuLYDyZRzdQ7HPf2Fj": {
+      "value": "DEXFiUCJgpzRK8ET5Djx5yXkdaiuLYDyZRzdQ7HPf2Fj",
+      "type": "dev",
+      "time": 1768521943948
+    },
+    "dev-A1dke8b7YWg28xbx2i9cXQuTictwpgwXnWJm3fJ727xo": {
+      "value": "A1dke8b7YWg28xbx2i9cXQuTictwpgwXnWJm3fJ727xo",
+      "type": "dev",
+      "time": 1768536728721
+    }
+  }
+}
